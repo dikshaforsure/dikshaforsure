@@ -42,14 +42,6 @@ I'm a **Final-year Computer Science & Engineering student** and aspiring **Softw
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshaforsure&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshaforsure&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
