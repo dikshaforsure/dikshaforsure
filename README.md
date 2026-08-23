@@ -45,10 +45,9 @@ I'm a **Final-year Computer Science & Engineering student** and aspiring **Softw
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikshaforsure&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshaforsure&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dikshaforsure&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshaforsure&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -68,7 +67,7 @@ I'm a **Final-year Computer Science & Engineering student** and aspiring **Softw
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,react,redux,nodejs,express,mongodb,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,react,redux,nodejs,express,mongodb,postman,postgresql,git,github,vscode,googlecolab" />
 </p>
 
 <p align="center">
