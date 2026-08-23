@@ -1,13 +1,5 @@
-:
+<h1 align="center">Hi 👋, I'm Diksha Anand</h1>
 
-👋 Hey there! I'm Diksha Anand ,an 
-aspiring developer diving into the 
-world of coding. With a basic 
-understanding of C++ and web development,
-I'm eager to expand my skills and 
-contribute to exciting projects.
-Passionate about learning, I'm on a 
-journey to grow as a developer and 
-make meaningful contributions to the 
-tech community. Let's connect and 
-collaborate! 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;C%2B%2B+%7C+DSA;Machine+Learning+Enthusiast&font=Fira+Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&pause=1000&size=22" />
+</p>
