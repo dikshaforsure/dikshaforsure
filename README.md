@@ -14,3 +14,44 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=dikshaforsure&theme=tokyonight&hide_border=true" />
 </p>
+## 👾 Contribution Graph
+
+<p align="center">
+  <img src="./pacman-contribution-graph.svg" />
+</p>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,react,redux,nodejs,express,mongodb,postgresql,git,github,vscode" />
+</p>
+## 👩‍💻 About Me
+
+- 🎓 Final-year Computer Science & Engineering student
+- 💻 Full Stack Developer
+- ⚛️ Building applications with React, Node.js, Express & MongoDB
+- 🧩 Practicing C++ and Data Structures & Algorithms
+- 🤖 Interested in Machine Learning and Generative AI
+- 🚀 Building real-world projects and contributing to open source
+## 🚀 Featured Projects
+
+
+### 🌐 Syncaura
+Contributing to a full-stack web application involving project management and collaboration.
+
+**Tech:** React • Node.js • PostgreSQL
+
+### 🎬 Netflix Clone
+React-based Netflix-inspired application with Redux state management.
+
+**Tech:** React • Redux • JavaScript
+
+### 📰 Fake News Detection
+Machine learning model for detecting potentially fake news.
+
+**Tech:** Python • Machine Learning
+
+## 👾 My Contribution Graph
+
+<p align="center">
+  <img src="./pacman-contribution-graph.svg" />
+</p>
