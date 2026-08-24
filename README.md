@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diksha Anand</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;C%2B%2B+%7C+DSA;Machine+Learning+Enthusiast&font=Fira+Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;C%2B%2B+%7C+DSA;AI+Enthusiast&font=Fira+Code&center=true&width=600&height=50&color=36BCF7&vCenter=true&pause=1000&size=22" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ I'm a **Final-year Computer Science & Engineering student** and aspiring **Softw
 ## 🏆 Achievements
 
 - 🏅 **Smart India Hackathon 2024 Finalist** — Team Cyber Splash
-- 🔬 **IEEE Research Paper Published**
+- 🔬 **IEEE Research Paper Published CICN 2026**
 - 🎤 **RTIME-2025 International Conference** — Anchor
 - 💻 Team Lead **Technical Club (Data Science & AI Community) — Code Forge**
 - 💻 Secretary **IEEE at NIAMT,Ranchi**
@@ -48,12 +48,6 @@ I'm a **Final-year Computer Science & Engineering student** and aspiring **Softw
   <img src="https://streak-stats.demolab.com?user=dikshaforsure&theme=tokyonight&hide_border=true" />
 </p>
 
----
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshaforsure&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
 ---
 
 ## 🛠️ Tech Stack
